@@ -1,1 +1,1 @@
-# Application-in-group-theory-in-music-
+# Application-of Group Theory in Music-
